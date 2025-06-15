@@ -7,9 +7,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://i12.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20i12.netlify.app-Visit%20Now-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
+<p align="left">
+  <a href="https://airable.site" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20air-able.netlify.app-Visit%20Now-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Stay Healthy" />
   </a>
 </p>
 
