@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-i/AirAble-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Project-i & AirAble😮‍💨-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Made%20by-I12-%2300bfff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20HTML%20%7C%20CSS-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code Skills-Python%20%7C%20HTML%20%7C%20CSS%20%7C%20React%20%7C%20TS-informational?style=for-the-badge" />
 </p>
 
 ---
 
 ### ✨ About Me
 - 🔭 Currently building **Project i** & **AirAble** under **I12**
-- 🌐 Visit **airable.site**
+- 🌐 Visit **airable.site** *working now.
 - 💻 Mostly code in **Python**, **HTML**, and **CSS**
 - 🧠 Learning and leveling up one line at a time
 
