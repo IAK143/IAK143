@@ -37,12 +37,8 @@
 ### 📈 Contributions
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAK143&theme=react&hide_border=true" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAK143&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <br/>
-</p>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=IAK143&theme=merko" />
+<p align="center"> 
 
 ---
 
