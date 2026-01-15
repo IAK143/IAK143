@@ -2,8 +2,8 @@
 <h3 align="center">Crafting experiences with code @ <a href="https://i12.netlify.app" target="_blank">I12</a></h3>
 
 <p align="center">
-  <a href="https://i12.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20i12.netlify.app-Visit%20Now-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
+  <a href="https://qt-ai.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20QT-AI-Visit%20Now-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
   </a>
   <a href="https://airable.site" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20airable.site-Visit%20Now-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Stay Healthy" />
