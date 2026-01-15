@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm IAK143</h1>
-<h3 align="center">Crafting experiences with code @ <a href="https://i12.netlify.app" target="_blank">I12</a></h3>
+<h3 align="center">Crafting experiences with code @ <a href="https://qt-ai.netlify.app" target="_blank">I12</a></h3>
 
 <p align="center">
   <a href="https://qt-ai.netlify.app" target="_blank">
