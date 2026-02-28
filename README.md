@@ -19,7 +19,7 @@
 ---
 
 ### ✨ About Me
-- 🔭 Currently building **Project i** & **AirAble** under **I12**
+- 🔭 Currently building **Project i** & **AirAble** under **AN.**
 - 🌐 Visit **airable.site** *working now.
 - 💻 Mostly code in **Python**, **HTML**, and **CSS**
 - 🧠 Learning and leveling up one line at a time
