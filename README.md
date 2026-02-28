@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-i & AirAble😮‍💨-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Made%20by-I12-%2300bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QT-AI & AirAble😮‍💨-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Made%20by-AN.-%2300bfff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code Skills-Python%20%7C%20HTML%20%7C%20CSS%20%7C%20React%20%7C%20TS-informational?style=for-the-badge" />
 </p>
 
