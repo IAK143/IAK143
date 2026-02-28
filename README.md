@@ -1,52 +1,79 @@
-<h1 align="center">Hey there 👋, I'm IAK143</h1>
-<h3 align="center">Crafting experiences with code @ <a href="https://an-official.netlify.app" target="_blank">AN</a></h3>
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=45&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+A+K+_+1+4+3;A+N+_+O+F+F+I+C+I+A+L;I+M+P+E+C+T" />
+</div>
 
-<p align="center">
-  <a href="https://qt-ai.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20qt_ai-Visit%20Now-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
-  </a>
-  <a href="https://airable.site" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20airable.site-Visit%20Now-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Stay Healthy" />
-  </a>
-</p>
+<div align="center">
+  <samp>EST. MMXXIV — BUILD. v1.0.4 — <a href="https://an-official.netlify.app" style="text-decoration:none; color:inherit;">[ PORTFOLIO ]</a></samp>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/QT-AI & AirAble😮‍💨-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Made%20by-AN.-%2300bfff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code Skills-Python%20%7C%20HTML%20%7C%20CSS%20%7C%20React%20%7C%20TS-informational?style=for-the-badge" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%" height="1">
+  <br><br>
+  <i>"In a world of grids, be the glitch."</i>
+  <br><br>
+  I am <b>IAK143</b>. Currently architecting <b>Project_i</b> & <b>AirAble</b>.<br/>
+  Design is intelligence made visible.
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%" height="1">
+</div>
 
-### ✨ About Me
-- 🔭 Currently building **Project i** & **AirAble** under **AN.**
-- 🌐 Visit **airable.site** *working now.
-- 💻 Mostly code in **Python**, **HTML**, and **CSS**
-- 🧠 Learning and leveling up one line at a time
+<br/>
 
----
+<table width="100%">
+<tr>
 
-### 🛠️ Languages & Tools
+<td width="60%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" alt="skills" />
-</p>
+### 01. INDEX _
 
----
+```html
+<!-- Project 1 -->
+<code>[ 001 ]</code> <b><a href="https://airable.site">AIRABLE.SITE</a></b>
+<sub>       ↳ STATUS: LIVE_
+       ↳ DATA / VITALITY / HEALTH</sub>
 
-### 📈 Contributions
 
-<p align="center"> 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=IAK143&theme=merko" />
-<p align="center"> 
+<!-- Project 2 -->
+<code>[ 002 ]</code> <b><a href="https://qt-ai.netlify.app">QT_AI</a></b>
+<sub>       ↳ STATUS: BETA_
+       ↳ INTELLIGENCE / LOGIC</sub>
 
----
 
-### 🚀 Currently Working On
-> ✨ A sleek, classic project called **i**  
-> 🧩 Blending utility, simplicity, and clean design under the **I12** banner
+<!-- Project 3 -->
+<code>[ 003 ]</code> <b>PROJECT_i</b>
+<sub>       ↳ STATUS: HIDDEN_
+       ↳ THE VOID / UTILITY</sub>
+```
 
----
+</td>
 
-### 💬 Motto
-> *“Design is intelligence made visible.”*
+<td width="40%" valign="top">
+
+### 02. DATA _‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ 
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white" />
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</br>
+
+<div align="right">
+<code>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IAK143&theme=graywhite&hide_border=true&date_format=M%20j&mode=weekly&ring=000000&currStreakLabel=000000" />
+// END OF TRANSMISSION<br/>
+// SIGNED: IAK143<br/>
+// <a href="mailto:aniply201@gmail.com">CONTACT_ME</a>
+</code>
+</div>
