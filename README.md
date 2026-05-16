@@ -31,7 +31,7 @@
 
 ```html
 <!-- Project 1 -->
-<code>[ 001 ]</code> <b><a href="https://airable.site">AIRABLE.SITE</a></b>
+<code>[ 001 ]</code> <b><a href="https://airable.netlify.app">AIRABLE</a></b>
 <sub>       ↳ STATUS: LIVE_
        ↳ DATA / VITALITY / HEALTH</sub>
 
