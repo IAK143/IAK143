@@ -14,7 +14,7 @@
   <br><br>
   <i>"In a world of grids, be the glitch."</i>
   <br><br>
-  I am <b>IAK143</b>. Currently architecting <b>Project_i</b> & <b>AirAble</b>.<br/>
+  I am <b>AN</b>. Currently architecting <b>huu</b> & <b>AirAble</b>.<br/>
   Design is intelligence made visible.
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%" height="1">
