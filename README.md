@@ -1,79 +1,103 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=45&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+A+K+_+1+4+3;A+N+_+O+F+F+I+C+I+A+L;I+M+P+E+C+T" />
+
+# `I A K / 1 4 3`
+
+**A N // OFFICIAL**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=14&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=620&lines=I+build+things+that+probably+shouldn't+work.;Sometimes+they+do.;In+a+world+of+grids%2C+be+the+glitch." />
+
+<br/>
+
+`EST. MMXXIV` · `BUILD 01.04` · `ONLINE`
+
 </div>
 
+---
+
 <div align="center">
-  <samp>EST. MMXXIV — BUILD. v1.0.4 — <a href="https://an-official.netlify.app" style="text-decoration:none; color:inherit;">[ PORTFOLIO ]</a></samp>
+
+> **I make digital things with personality.**
+>
+> software · interfaces · experiments · weird ideas
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%" height="1">
-  <br><br>
-  <i>"In a world of grids, be the glitch."</i>
-  <br><br>
-  I am <b>AN</b>. Currently architecting <b>huu</b> & <b>AirAble</b>.<br/>
-  Design is intelligence made visible.
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%" height="1">
-</div>
+## `// SELECTED WORK`
 
-<br/>
-
-<table width="100%">
+<table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="60%" valign="top">
+### `o`
 
-### 01. INDEX _
+### AIRABLE
 
-```html
-<!-- Project 1 -->
-<code>[ 001 ]</code> <b><a href="https://airable.netlify.app">AIRABLE</a></b>
-<sub>       ↳ STATUS: LIVE_
-       ↳ DATA / VITALITY / HEALTH</sub>
+**LIVE**
 
+AI-powered air-quality intelligence and cleaner route planning.
 
-<!-- Project 2 -->
-<code>[ 002 ]</code> <b><a href="https://qt-ai.netlify.app">QT_AI</a></b>
-<sub>       ↳ STATUS: BETA_
-       ↳ INTELLIGENCE / LOGIC</sub>
-
-
-<!-- Project 3 -->
-<code>[ 003 ]</code> <b>PROJECT_i</b>
-<sub>       ↳ STATUS: HIDDEN_
-       ↳ THE VOID / UTILITY</sub>
-```
+[**OPEN >**](https://airable.netlify.app)
 
 </td>
 
-<td width="40%" valign="top">
+<td width="33%" valign="top">
 
-### 02. DATA _‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ 
+### `oo`
 
-<div align="left">
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white" />
-</div>
+### QT_AI
+
+**BETA**
+
+A private-first digital workspace built around your data.
+
+[**OPEN >**](https://qt-ai.netlify.app)
 
 </td>
 
+<td width="33%" valign="top">
+
+### `ooo`
+
+### PROJECT_i
+
+**HIDDEN**
+
+Something is being built.
+
+`████████\\\\\\`
+
+</td>
 </tr>
 </table>
 
-</br>
+<br/>
 
-<div align="right">
-<code>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=IAK143&theme=graywhite&hide_border=true&date_format=M%20j&mode=weekly&ring=000000&currStreakLabel=000000" />
-// END OF TRANSMISSION<br/>
-// SIGNED: IAK143<br/>
-// <a href="mailto:aniply201@gmail.com">CONTACT_ME</a>
-</code>
+<div align="center">
+
+`PYTHON` · `REACT` · `JAVASCRIPT / TYPESCRIPT` · `HTML / CSS` · `APIs` · `AI` · `WEBGL`
+
+<br/><br/>
+
+```text
+        /\_/\
+                         ( •.• )    hello, world.
+        > ^ <
+```
+
+`CURRENTLY: building quietly somewhere on the internet.`
+
+<br/>
+
+[ **PORTFOLIO** ](https://an-official.netlify.app)
+·
+[ **GITHUB** ](https://github.com/IAK143)
+·
+[ **CONTACT** ](mailto:aniply@gmail.com)
+
+<br/>
+
+<sub>© IAK143 — imperfect by design.</sub>
+
 </div>
